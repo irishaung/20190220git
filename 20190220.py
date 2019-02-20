@@ -1,5 +1,4 @@
 x = 10
-y = 5
-ans = x + y
-print(ans)
-print("")
+y = 6
+print(x + y)
+
